@@ -1,2 +1,2 @@
-# Digital-Image-Processing---Notes
+# Digital-Image-Processing-Notes
 Notations from classes

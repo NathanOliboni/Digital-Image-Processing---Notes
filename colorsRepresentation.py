@@ -75,6 +75,24 @@ def yuv_to_rgb(yuv):
     b = yuv[0] + 2.03211 * yuv[1]
     return [r, g, b]
 
+def rgb_to_hsv(rgb):
+    pass
+
+def hsv_to_rgb(hsv):
+    pass
+
+def rgb_to_hsl(rgb):
+    pass
+
+def hsl_to_rgb(hsl):
+    pass
+
+def rgb_to_hsi(rgb):
+    pass
+
+def hsi_to_rgb(hsi):
+    pass
+
 def main():
     rgb = []
     for color in ['Red', 'Green', 'Blue']:
